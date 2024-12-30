@@ -4,14 +4,13 @@
     "build-css": "tailwindcss build src/styles.css -o public/styles.css"
   },
   "dependencies": {
-    "servor": "^4.0.2",
-    "vite": "^6.0.6"
+    "servor": "^4.0.2"
   },
   "devDependencies": {
     "prettier": "3.4.2",
     "tailwindcss": "^3.4.17"
   },
-  "name": "Fiti-s",
+  "name": "Fiti's",
   "version": "1.0.0",
   "description": "Tailwind css project build with static html",
   "main": "index.js",
@@ -19,10 +18,7 @@
     "type": "git",
     "url": "prolificcoder17"
   },
-  "keywords": [
-    "random",
-    "projects"
-  ],
-   "author": "ProlifiCoder17",
+  "keywords": ["random", "projects"],
+  "author": "ProlifiCoder17",
   "license": "ISC"
 }
